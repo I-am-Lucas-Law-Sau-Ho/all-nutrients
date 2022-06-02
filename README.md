@@ -5,7 +5,7 @@ from tkmacosx import Button as button
 import requests
 import dConsts
 import math
- 
+
 I have change something in the original owner
 because some error on rounding up the numbers
 and this is a goood display
@@ -13,6 +13,8 @@ I thuink this can be added to the program
 
 # Small L you see see
 # only copy some of the program is also enought for the project
+
+Run dConsts.py first then run the next program
 
 1. pip install tkinter
  
