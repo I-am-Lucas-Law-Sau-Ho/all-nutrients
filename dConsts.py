@@ -6,7 +6,7 @@ and cleaner code.
 
 # Window settings and all colors used in project
 WINDOW_TITLE = "Dialysis Nutrition Information By Yihan Ye"
-MAIN_WINDOW_SIZE = "1000x1000"
+MAIN_WINDOW_SIZE = "1000x1200"
 MAIN_WINDOW_COLOR = "#bedddc"
 MAIN_FRAME_COLOR = "#f4efeb"
 GOOD_FOOD_COLOR = "#9be281"
